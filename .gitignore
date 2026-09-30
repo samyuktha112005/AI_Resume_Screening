@@ -1,0 +1,7 @@
+resume.pdf
+resume.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml

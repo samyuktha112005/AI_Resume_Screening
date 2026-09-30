@@ -1,0 +1,11 @@
+AI Developer
+
+We are looking for an AI Developer with strong skills in
+Python, Machine Learning, Natural Language Processing,
+Scikit-learn, TensorFlow, SQL, Pandas, Git, and Docker.
+
+The candidate should have knowledge of developing
+Artificial Intelligence and Machine Learning applications.
+
+Experience with NLP, data preprocessing, feature engineering,
+and model evaluation is preferred.
