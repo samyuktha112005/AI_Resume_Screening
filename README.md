@@ -39,6 +39,7 @@ An AI-based resume screening application that analyzes a candidate's resume agai
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Live Demo
